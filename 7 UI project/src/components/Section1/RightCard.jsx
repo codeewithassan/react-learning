@@ -1,5 +1,5 @@
 import React from 'react'
-import RightCardContent from './RIghtCardContent'
+import RightCardContent from './RightCardContent'
 
 const RightCard = (props) => {
     return (
